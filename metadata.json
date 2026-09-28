@@ -1,0 +1,6 @@
+{
+  "name": "VeloceFlow — Plateforme SaaS B2B d'Opérations & Facturation",
+  "description": "Solution SaaS tout-en-un de pilotage financier (MRR/ARR), facturation récurrente, gestion de projets clients et analytique opérationnelle pour entreprises et agences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
